@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Book</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+
+    <string name="textview">TextView</string>
+    <string name="new_post">New Post</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="friend">Friend</string>
+    <string name="find_friend">Find Friend</string>
+    <string name="message">Message</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="friends">Friends</string>
+    <string name="your_message_here">Your Message Here…</string>
+    <string name="display_username">display Username</string>
+</resources>

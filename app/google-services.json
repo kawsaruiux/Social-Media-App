@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781567599797",
+    "firebase_url": "https://social-medeia-app.firebaseio.com",
+    "project_id": "social-medeia-app",
+    "storage_bucket": "social-medeia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781567599797:android:6cee2cc35c305eef",
+        "android_client_info": {
+          "package_name": "com.kawsarit.konok.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781567599797-01v60v468n7ptn0k7hmhib92a66vm27t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kawsarit.konok.socialmediaapp",
+            "certificate_hash": "5e6d90d2ee40ad29ffc4a4310c2a618fc0011d8a"
+          }
+        },
+        {
+          "client_id": "781567599797-896j95e2q8h75a4e2u78mlgaq3lfbflg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdHyGS0ABi5gB15A3XnnkgW0isODQrrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781567599797-896j95e2q8h75a4e2u78mlgaq3lfbflg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

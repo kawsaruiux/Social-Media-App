@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_newpost"
+        android:title="@string/new_post"
+        android:icon="@drawable/add_post"
+        />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/profile_icon"
+        />
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/home"
+        />
+
+    <item
+        android:id="@+id/nav_friend"
+        android:title="@string/friend"
+        android:icon="@drawable/friends"
+        />
+
+    <item
+        android:id="@+id/nav_find_friend"
+        android:title="@string/find_friend"
+        android:icon="@drawable/find_people"
+        />
+
+    <item
+        android:id="@+id/nav_message"
+        android:title="@string/message"
+        android:icon="@drawable/messages"
+        />
+
+    <item
+        android:id="@+id/nav_Settings"
+        android:title="@string/settings"
+        android:icon="@drawable/settings"
+        />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="@string/logout"
+        android:icon="@drawable/logout"
+        />
+
+</menu>
